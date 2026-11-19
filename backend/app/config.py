@@ -10,6 +10,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 load_dotenv(BASE_DIR / ".env")
 
 DEFAULT_LOCAL_ORIGINS = (
+    "https://harsh0007-crypto.github.io,"
     "http://localhost:5174,http://127.0.0.1:5174,"
     "http://localhost:5173,http://127.0.0.1:5173,"
     "http://localhost:4173,http://127.0.0.1:4173"
