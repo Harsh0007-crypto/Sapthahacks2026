@@ -1,0 +1,111 @@
+order_id,customer_name,email,region,status,amount,order_date
+3001,Customer 3001,customer3001@example.com,North,Completed,1500,2026-01-01
+3002,Customer 3002,customer3002@example.com,South,Pending,1750,2026-01-02
+3003,Customer 3003,customer3003@example.com,East,Completed,2000,2026-01-03
+3004,Customer 3004,customer3004@example.com,West,Pending,2250,2026-01-04
+3005,Customer 3005,customer3005@example.com,North,Completed,2500,2026-01-05
+3006,Customer 3006,customer3006@example.com,South,Pending,2750,2026-01-06
+3007,Customer 3007,customer3007@example.com,East,Completed,3000,2026-01-07
+3008,Customer 3008,customer3008@example.com,West,Pending,3250,2026-01-08
+3009,Customer 3009,customer3009@example.com,North,Completed,3500,2026-01-09
+3010,Customer 3010,customer3010@example.com,South,Pending,3750,2026-01-10
+3011,Customer 3011,customer3011@example.com,East,Completed,1500,2026-01-11
+3012,Customer 3012,customer3012@example.com,West,Pending,1750,2026-01-12
+3013,Customer 3013,customer3013@example.com,North,Completed,2000,2026-01-13
+3014,Customer 3014,customer3014@example.com,South,Pending,2250,2026-01-14
+3015,Customer 3015,customer3015@example.com,East,Completed,2500,2026-01-15
+3016,Customer 3016,customer3016@example.com,West,Pending,2750,2026-01-16
+3017,Customer 3017,customer3017@example.com,North,Completed,3000,2026-01-17
+3018,Customer 3018,customer3018@example.com,South,Pending,3250,2026-01-18
+3019,Customer 3019,customer3019@example.com,East,Completed,3500,2026-01-19
+3020,Customer 3020,customer3020@example.com,West,Pending,3750,2026-01-20
+3021,Customer 3021,customer3021@example.com,North,Completed,1500,2026-01-21
+3022,Customer 3022,customer3022@example.com,South,Pending,1750,2026-01-22
+3023,Customer 3023,customer3023@example.com,East,Completed,2000,2026-01-23
+3024,Customer 3024,customer3024@example.com,West,Pending,2250,2026-01-24
+3025,Customer 3025,customer3025@example.com,North,Completed,2500,2026-01-25
+3026,Customer 3026,customer3026@example.com,South,Pending,2750,2026-01-26
+3027,Customer 3027,customer3027@example.com,East,Completed,3000,2026-01-27
+3028,Customer 3028,customer3028@example.com,West,Pending,3250,2026-01-28
+3029,Customer 3029,customer3029@example.com,North,Completed,3500,2026-02-01
+3030,Customer 3030,customer3030@example.com,South,Pending,3750,2026-02-02
+3031,Customer 3031,customer3031@example.com,East,Completed,1500,2026-02-03
+3032,Customer 3032,customer3032@example.com,West,Pending,1750,2026-02-04
+3033,Customer 3033,customer3033@example.com,North,Completed,2000,2026-02-05
+3034,Customer 3034,customer3034@example.com,South,Pending,2250,2026-02-06
+3035,Customer 3035,customer3035@example.com,East,Completed,2500,2026-02-07
+3036,Customer 3036,customer3036@example.com,West,Pending,2750,2026-02-08
+3037,Customer 3037,customer3037@example.com,North,Completed,3000,2026-02-09
+3038,Customer 3038,customer3038@example.com,South,Pending,3250,2026-02-10
+3039,Customer 3039,customer3039@example.com,East,Completed,3500,2026-02-11
+3040,Customer 3040,customer3040@example.com,West,Pending,3750,2026-02-12
+3041,Customer 3041,customer3041@example.com,North,Completed,1500,2026-02-13
+3042,Customer 3042,customer3042@example.com,South,Pending,1750,2026-02-14
+3043,Customer 3043,customer3043@example.com,East,Completed,2000,2026-02-15
+3044,Customer 3044,customer3044@example.com,West,Pending,2250,2026-02-16
+3045,Customer 3045,customer3045@example.com,North,Completed,2500,2026-02-17
+3046,Customer 3046,customer3046@example.com,South,Pending,2750,2026-02-18
+3047,Customer 3047,customer3047@example.com,East,Completed,3000,2026-02-19
+3048,Customer 3048,customer3048@example.com,West,Pending,3250,2026-02-20
+3049,Customer 3049,customer3049@example.com,North,Completed,3500,2026-02-21
+3050,Customer 3050,customer3050@example.com,South,Pending,3750,2026-02-22
+3051,Customer 3051,customer3051@example.com,East,Completed,1500,2026-02-23
+3052,Customer 3052,customer3052@example.com,West,Pending,1750,2026-02-24
+3053,Customer 3053,customer3053@example.com,North,Completed,2000,2026-02-25
+3054,Customer 3054,customer3054@example.com,South,Pending,2250,2026-02-26
+3055,Customer 3055,customer3055@example.com,East,Completed,2500,2026-02-27
+3056,Customer 3056,customer3056@example.com,West,Pending,2750,2026-02-28
+3057,Customer 3057,customer3057@example.com,North,Completed,3000,2026-03-01
+3058,Customer 3058,customer3058@example.com,South,Pending,3250,2026-03-02
+3059,Customer 3059,customer3059@example.com,East,Completed,3500,2026-03-03
+3060,Customer 3060,customer3060@example.com,West,Pending,3750,2026-03-04
+3061,Customer 3061,customer3061@example.com,North,Completed,1500,2026-03-05
+3062,Customer 3062,customer3062@example.com,South,Pending,1750,2026-03-06
+3063,Customer 3063,customer3063@example.com,East,Completed,2000,2026-03-07
+3064,Customer 3064,customer3064@example.com,West,Pending,2250,2026-03-08
+3065,Customer 3065,customer3065@example.com,North,Completed,2500,2026-03-09
+3066,Customer 3066,customer3066@example.com,South,Pending,2750,2026-03-10
+3067,Customer 3067,customer3067@example.com,East,Completed,3000,2026-03-11
+3068,Customer 3068,customer3068@example.com,West,Pending,3250,2026-03-12
+3069,Customer 3069,customer3069@example.com,North,Completed,3500,2026-03-13
+3070,Customer 3070,customer3070@example.com,South,Pending,3750,2026-03-14
+3071,Customer 3071,customer3071@example.com,East,Completed,1500,2026-03-15
+3072,Customer 3072,customer3072@example.com,West,Pending,1750,2026-03-16
+3073,Customer 3073,customer3073@example.com,North,Completed,2000,2026-03-17
+3074,Customer 3074,customer3074@example.com,South,Pending,2250,2026-03-18
+3075,Customer 3075,customer3075@example.com,East,Completed,2500,2026-03-19
+3076,Customer 3076,customer3076@example.com,West,Pending,2750,2026-03-20
+3077,Customer 3077,customer3077@example.com,North,Completed,3000,2026-03-21
+3078,Customer 3078,customer3078@example.com,South,Pending,3250,2026-03-22
+3079,Customer 3079,customer3079@example.com,East,Completed,3500,2026-03-23
+3080,Customer 3080,customer3080@example.com,West,Pending,3750,2026-03-24
+3081,  Customer 3081  ,customer3081@example.com,North,Completed,2500,2026-03-10
+3082,  Customer 3082  ,customer3082@example.com,South,Pending,2500,2026-03-10
+3083,  Customer 3083  ,customer3083@example.com,East,Completed,2500,2026-03-10
+3084,Customer 3084,customer3084@example.com,north,Pending,2500,2026-03-10
+3085,Customer 3085,customer3085@example.com, SOUTH ,Completed,2500,2026-03-10
+3086,Customer 3086,customer3086@example.com,EAST,Pending,2500,2026-03-10
+3087,Customer 3087,customer3087@example.com,East,completed,2500,2026-03-10
+3088,Customer 3088,customer3088@example.com,West,PENDING,2500,2026-03-10
+3089,Customer 3089,customer3089@example.com,North, pending ,2500,2026-03-10
+3090,Customer 3090,customer3090@example.com,South,Pending,2500,03/15/2026
+3091,Customer 3091,customer3091@example.com,East,Completed,2500,2026/04/10
+3092,Customer 3092,customer3092@example.com,West,Pending,2500,"May 20, 2026"
+3093,Customer 3093, USER3093@EXAMPLE.COM ,North,Completed,2500,2026-03-10
+3094,Customer 3094,User3094@Example.com,South,Pending,2500,2026-03-10
+3095,Customer 3095,customer3095@example.com,East,Completed,"$2,450",2026-03-10
+3096,Customer 3096,customer3096@example.com,West,Pending," 3,100 ",2026-03-10
+3001,Customer 3001,customer3001@example.com,North,Completed,1500,2026-01-01
+3002,Customer 3002,customer3002@example.com,South,Pending,1750,2026-01-02
+3099,,customer3099@example.com,East,Completed,2500,2026-03-10
+3100,,customer3100@example.com,West,Pending,2500,2026-03-10
+3101,Customer 3101,,North,Completed,2500,2026-03-10
+3102,Customer 3102,,South,Pending,2500,2026-03-10
+3103,Customer 3103,customer3103@example.com,East,Completed,,2026-03-10
+3104,Customer 3104,customer3104@example.com,West,Pending,,2026-03-10
+3105,Customer 3105,bad-email-104,North,Completed,2500,2026-03-10
+3106,Customer 3106,user105@invalid,South,Pending,2500,2026-03-10
+3107,Customer 3107,customer3107@example.com,East,Completed,-450,2026-03-10
+3108,Customer 3108,customer3108@example.com,West,Pending,950000,2026-03-10
+3109,Customer 3109,customer3109@example.com,North,Completed,2500,not-a-real-date
+3110,Customer 3110,customer3110@example.com,South,Pending,CORRUPT_AMT,2026-03-10

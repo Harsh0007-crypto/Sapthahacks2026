@@ -1,0 +1,11 @@
+employee_id,full_name,email,department,status,age,salary,join_date
+1001,Alice Johnson,alice@example.com,Engineering,Active,29,75000,2023-01-15
+1002,Bob Smith,bob.invalid,Engineering,active,34,78000,03/15/2024
+1003, Carol White , CAROL@EXAMPLE.COM ,Sales,ACTIVE,31,"$72,000",2024/04/01
+1004,David Brown,,sales, active ,28,74000,2023-06-20
+1005,Eve Davis,eve@example.com,engineering,Inactive,35,76000,not-a-date
+1006,Frank Miller,frank@example.com,Engineering,Active,-5,73000,2023-09-10
+1007,Grace Lee,grace@example.com,Sales,Active,30,950000,2023-11-05
+1008,Henry Wilson,henry@example.com,Engineering,Active,32,,2024-01-12
+1001,Alice Johnson,alice@example.com,Engineering,Active,29,75000,2023-01-15
+1009,Ivy Clark,ivy@example.com,Sales,Inactive,27,71000,2024-02-18
